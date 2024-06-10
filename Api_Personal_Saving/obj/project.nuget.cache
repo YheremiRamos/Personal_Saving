@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LJvG1BUm0iN9HgBCZOPLkFWmkxMudoEXiAkls0IDj3v959F252DPZBJr3FSaEkzveShc3xJnGs/bJErvPBW0g==",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\FuenteWebASPMVC\\Laboratorio09-GRPC\\Api_Personal_Saving\\Api_Personal_Saving.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SUITE\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\SUITE\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\SUITE\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\SUITE\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\SUITE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\SUITE\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
