@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Proyecto.Presentacion.Models.Egreso>
+
+@{
+    ViewData["Title"] = "ListaEgreso";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+    <h1>LISTADO DE EGRESOS</h1>
+
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-table me-1"></i>
+            Egresos
+        </div>
+        <div class="card-body">
+            <table id="datatablesSimple" class="display">
+                <thead>
+                    <tr>
+
+                    <th>
+                        @Html.DisplayNameFor(model => model.id)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.id_usuario)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.id_transaccion)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.fecha)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.monto)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.descripcion)
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.id)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.id_usuario)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.id_transaccion)
+                        </td>
+                        <td>
+                            @item.fecha.ToShortDateString()
+                        </td>
+                        <td>
+                            S/@item.monto.ToString("0.00"))
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.descripcion)
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div>
+
+</div>
+
+<!-- Incluir DataTables CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+
+<style>
+    /* Estilos personalizados para la paginación de DataTables */
+
+    div.dataTables_wrapper div.dataTables_length select {
+        width: 30%; /* Ajusta el ancho aquí según tus necesidades */
+    }
+</style>
+
+<!-- Incluir jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- Incluir DataTables JS -->
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>
+
+<script>
+    $(document).ready(function () {
+        $('#datatablesSimple').DataTable({
+            "lengthMenu": [10, 25, 50,75,100], // Opciones para el número de registros mostrados
+            "language": {
+                "lengthMenu": "Mostrar _MENU_ registros por página",
+                "zeroRecords": "No se encontraron resultados",
+                "info": "Mostrando página _PAGE_ de _PAGES_",
+                "infoEmpty": "No hay registros disponibles",
+                "infoFiltered": "(filtrado de _MAX_ registros totales)",
+                "paginate": {
+                    "first": "Primero",
+                    "last": "Último",
+                    "next": "Siguiente",
+                    "previous": "Anterior"
+                }
+            }
+        });
+    });
+</script>
