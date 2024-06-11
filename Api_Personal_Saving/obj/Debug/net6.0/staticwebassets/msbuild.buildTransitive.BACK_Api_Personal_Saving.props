@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BACK_Api_Personal_Saving.props" />
+</Project>

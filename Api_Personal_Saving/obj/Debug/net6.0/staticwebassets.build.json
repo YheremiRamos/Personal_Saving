@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "Jc47GldWL/5gYcz+4yEzfKGPRLXtbBV4X3CiAGyH5cM=",
-  "Source": "Api_Personal_Saving",
-  "BasePath": "_content/Api_Personal_Saving",
+  "Hash": "GyXb3mEulegO8FZnitZYLJL5w7V82DTyeiCVHjohmL8=",
+  "Source": "BACK_Api_Personal_Saving",
+  "BasePath": "_content/BACK_Api_Personal_Saving",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

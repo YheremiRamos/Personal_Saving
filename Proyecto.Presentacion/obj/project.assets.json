@@ -11175,19 +11175,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\italo\\.nuget\\packages\\": {}
+    "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
-      "projectName": "Proyecto.Presentacion",
-      "projectPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
-      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
+      "projectUniqueName": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "projectName": "FRONT_web_personal_saving",
+      "projectPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "packagesPath": "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Yheremi Fermin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

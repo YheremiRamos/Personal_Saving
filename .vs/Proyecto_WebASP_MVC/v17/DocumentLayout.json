@@ -1,10 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\",
+  "WorkspaceRootPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|c:\\users\\italo\\onedrive\\documentos\\proyecto_saving_ahora\\personal_saving\\proyecto.presentacion\\views\\egreso\\listaegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\Proyecto.Presentacion.csproj|solutionrelative:proyecto.presentacion\\views\\egreso\\listaegreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,31 +42,110 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ListaEgreso.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Views\\Egreso\\ListaEgreso.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Egreso\\ListaEgreso.cshtml",
-              "ToolTip": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Views\\Egreso\\ListaEgreso.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Egreso\\ListaEgreso.cshtml",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAAFYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-11T06:05:36.506Z",
+              "Title": "IngresosController.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:53:50.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BACK_Api_Personal_Saving",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "RelativeToolTip": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T20:49:00.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IngresosDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:46:39.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIngresos.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:45:29.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ingresos.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\Ingresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Ingresos.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\Ingresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\Ingresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:41:52.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\WeatherForecast.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:40:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\appsettings.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T20:39:53.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\appsettings.json",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\appsettings.json",
+              "RelativeToolTip": "Api_Personal_Saving\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T20:39:50.908Z",
               "EditorCaption": ""
             }
           ]

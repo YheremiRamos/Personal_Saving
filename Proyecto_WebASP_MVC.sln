@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto.Presentacion", "Proyecto.Presentacion\Proyecto.Presentacion.csproj", "{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FRONT_web_personal_saving", "Proyecto.Presentacion\FRONT_web_personal_saving.csproj", "{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api_Personal_Saving", "Api_Personal_Saving\Api_Personal_Saving.csproj", "{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BACK_Api_Personal_Saving", "Api_Personal_Saving\BACK_Api_Personal_Saving.csproj", "{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FRONT_web_personal_saving.props" />
+</Project>

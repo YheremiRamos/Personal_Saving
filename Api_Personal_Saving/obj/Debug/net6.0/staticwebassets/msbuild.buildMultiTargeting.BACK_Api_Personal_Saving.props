@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BACK_Api_Personal_Saving.props" />
+</Project>

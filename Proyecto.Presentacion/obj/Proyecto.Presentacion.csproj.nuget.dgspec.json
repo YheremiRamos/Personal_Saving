@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj": {}
+    "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj": {
+    "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+        "projectUniqueName": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
         "projectName": "Proyecto.Presentacion",
-        "projectPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
-        "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\OneDrive\\Documentos\\Proyecto_SAVING_AHORA\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
+        "projectPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Proyecto.Presentacion.csproj",
+        "packagesPath": "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yheremi Fermin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
