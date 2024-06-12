@@ -7,14 +7,13 @@ namespace BACK_Api_Personal_Saving.Repositorio.Interfaces
     {
         IEnumerable<Egresos> listarEgresos();
 
-       /*
-        IEnumerable<EgresosO> listadoEgresosO();
+     
 
         //METODOS
         EgresosO buscarEgresos(int id);
         string nuevoEgreso(EgresosO objE);
 
-        //metodo para actualizar pendiente
-        //string modificaPaciente(Paciente objP);*/
+        //metodo para actualizar 
+        string modificaEgreso(EgresosO objE);
     }
 }
