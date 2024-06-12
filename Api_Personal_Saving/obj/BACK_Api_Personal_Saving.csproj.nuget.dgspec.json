@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {}
+    "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {
+    "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+        "projectUniqueName": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
         "projectName": "BACK_Api_Personal_Saving",
-        "projectPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-        "packagesPath": "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\obj\\",
+        "projectPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Yheremi Fermin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

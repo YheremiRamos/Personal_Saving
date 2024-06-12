@@ -2,6 +2,7 @@
 {
     public class Ingresos
     {
+       
 
 
         public DateTime fecha { get; set; }
