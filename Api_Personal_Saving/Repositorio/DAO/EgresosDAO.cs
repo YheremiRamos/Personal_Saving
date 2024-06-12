@@ -16,6 +16,11 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             cadena = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("cn");
         }
 
+        public EgresosO buscarEgresos(int id)
+        {
+            throw new NotImplementedException();
+        }
+
 
         //-- 
         //--------------------------METODOS----------------
@@ -42,6 +47,63 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             
         }
 
+
         //NUEVO EGRESO------------
+       public string nuevoEgreso(EgresosO objE)
+        {
+            string mensaje = "";
+            SqlConnection cn = new SqlConnection(cadena);
+            cn.Open();
+            try
+            {
+                SqlCommand cmd = new SqlCommand("SP_MERGE_EGRESO", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@id_egreso", objE.id_egreso);
+                cmd.Parameters.AddWithValue("@id_usuario", objE.id_usuario);
+                cmd.Parameters.AddWithValue("@id_transaccion", objE.id_transaccion);
+                cmd.Parameters.AddWithValue("@fecha", objE.fecha);
+                cmd.Parameters.AddWithValue("@monto", objE.monto);
+                cmd.Parameters.AddWithValue("@descripcion", objE.descripcion);
+
+                int n = cmd.ExecuteNonQuery();
+                mensaje = n.ToString() + " Egreso registrado correctamente..!!";
+            }
+            catch (Exception ex)
+            {
+                mensaje = "Error al registrar..!! " + ex.Message;
+            }
+            cn.Close();
+            return mensaje;
+        }
+        //-----------ACTUALIZAR
+         public string modificaEgreso(EgresosO objE)
+        {
+            string mensaje = "";
+            using (SqlConnection cn = new SqlConnection(cadena))
+            {
+                cn.Open();
+                try
+                {
+                    SqlCommand cmd = new SqlCommand("SP_MERGE_EGRESO", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@id_egreso", objE.id_egreso);
+                    cmd.Parameters.AddWithValue("@id_usuario", objE.id_usuario);
+                    cmd.Parameters.AddWithValue("@id_transaccion", objE.id_transaccion);
+                    cmd.Parameters.AddWithValue("@fecha", objE.fecha);
+                    cmd.Parameters.AddWithValue("@monto", objE.monto);
+                    cmd.Parameters.AddWithValue("@descripcion", objE.descripcion);
+
+                    int n = cmd.ExecuteNonQuery();
+                    mensaje = n.ToString() + " Egreso actualizado correctamente..!!";
+                }
+                catch (Exception ex)
+                {
+                    mensaje = "Error al actualizar..!! " + ex.Message;
+                }
+                cn.Close();
+            }
+            return mensaje;
+        }
+
     }
 }

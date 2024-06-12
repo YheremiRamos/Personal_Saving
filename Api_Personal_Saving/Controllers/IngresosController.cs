@@ -17,6 +17,24 @@ namespace BACK_Api_Personal_Saving.Controllers
             return Ok(lista);
         }
 
+        //paso4: controller (registro)
+       [HttpPost("nuevoIngreso")]
+        public async Task<ActionResult<string>> nuevoIngreso(IngresosO objI)
+        {
+            var mensaje = await Task.Run(() =>
+            new IngresosDAO().nuevoIngreso(objI));
+            return Ok(mensaje);
+        }
+
+        //paso4: controller (actualizacion)
+        [HttpPut("modificaIngreso")]
+        public async Task<ActionResult<string>> modificaIngreso(IngresosO objI)
+        {
+            var mensaje = await Task.Run(() =>
+            new IngresosDAO().modificaIngreso(objI));
+            return Ok(mensaje);
+        }
+
 
     }
 }

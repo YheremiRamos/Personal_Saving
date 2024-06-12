@@ -18,7 +18,12 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                 .Build().GetConnectionString("cn");
 
         }
-
+        //-------------------------
+        public IngresosO buscarIngreso(int id)
+        {
+            throw new NotImplementedException();
+        }
+        //_------------------------------
         public IEnumerable<Ingresos> listarIngresos()
         {
             List<Ingresos> aIngresos = new List<Ingresos>();
@@ -42,6 +47,67 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             cn.Close();
             return aIngresos;
 
+        }
+
+      
+
+        //--------NUEVO INGRESO
+        public string nuevoIngreso(IngresosO objI)
+        {
+            string mensaje = "";
+            SqlConnection cn = new SqlConnection(cadena);
+            cn.Open();
+            try
+            {
+                SqlCommand cmd = new SqlCommand("SP_MERGE_INGRESO", cn);
+                cmd.CommandType = CommandType.StoredProcedure;
+                cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
+                cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
+                cmd.Parameters.AddWithValue("@id_transaccion", objI.id_transaccion);
+                cmd.Parameters.AddWithValue("@fecha", objI.fecha);
+                cmd.Parameters.AddWithValue("@monto", objI.monto);
+                cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
+
+                int n = cmd.ExecuteNonQuery();
+                mensaje = n.ToString() + " Ingreso registrado correctamente..!!";
+            }
+            catch (Exception ex)
+            {
+                mensaje = "Error al registrar..!! " + ex.Message;
+            }
+            cn.Close();
+            return mensaje;
+
+        }
+
+        //------------------ACTUALIZAR
+        public string modificaIngreso(IngresosO objI)
+        {
+            string mensaje = "";
+            using (SqlConnection cn = new SqlConnection(cadena))
+            {
+                cn.Open();
+                try
+                {
+                    SqlCommand cmd = new SqlCommand("SP_MERGE_INGRESO", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
+                    cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
+                    cmd.Parameters.AddWithValue("@id_transaccion", objI.id_transaccion);
+                    cmd.Parameters.AddWithValue("@fecha", objI.fecha);
+                    cmd.Parameters.AddWithValue("@monto", objI.monto);
+                    cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
+
+                    int n = cmd.ExecuteNonQuery();
+                    mensaje = n.ToString() + " Ingreso actualizado correctamente..!!";
+                }
+                catch (Exception ex)
+                {
+                    mensaje = "Error al actualizar..!! " + ex.Message;
+                }
+                cn.Close();
+            }
+            return mensaje;
         }
     }
 }
