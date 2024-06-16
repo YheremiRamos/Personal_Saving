@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {}
+    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {}
   },
   "projects": {
-    "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {
+    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+        "projectUniqueName": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
         "projectName": "BACK_Api_Personal_Saving",
-        "projectPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE3\\Api_Personal_Saving\\obj\\",
+        "projectPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,6 +54,10 @@
               "target": "Package",
               "version": "[5.2.1, )"
             },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,6 +2,7 @@
 using BACK_Api_Personal_Saving.Repositorio.Interfaces;
 using System.Data;
 using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.Configuration;
 
 namespace BACK_Api_Personal_Saving.Repositorio.DAO
 {
@@ -35,7 +36,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             SqlDataReader dr = cmd.ExecuteReader();
             while (dr.Read())
             {
-                aIngresos.Add(new Ingresos
+                aIngresos.Add(new Ingresos()
                 {   
                     fecha = DateTime.Parse(dr[0].ToString()),
                     monto = Double.Parse(dr[1].ToString()),

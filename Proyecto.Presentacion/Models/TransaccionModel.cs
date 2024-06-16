@@ -12,7 +12,7 @@ namespace Proyecto.Presentacion.Models
         public double monto { get; set; }
 
 
-        [DisplayName("Tipo_transacción")]
-        public string? tipoTransacdecion { get; set; }
+        [DisplayName("Tipo de transacción")]
+        public string? nombre { get; set; }
     }
 }
