@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Proyecto.Presentacion.Models.IngresoModel>
+
+@{
+    ViewData["Title"] = "listadoIngresos";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>Listado de Ingresos</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.monto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.monto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

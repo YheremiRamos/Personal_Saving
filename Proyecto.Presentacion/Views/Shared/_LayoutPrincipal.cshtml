@@ -52,7 +52,7 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link " href="#"  data-target="#collapseProducto" aria-expanded="true"
+                <a class="nav-link " href="@Url.Action("listadoTransacciones", "Transaccion")" data-target="#collapseProducto" aria-expanded="true"
                    aria-controls="collapseTwo">
                     <span>Activos</span>
                 </a>
@@ -67,8 +67,8 @@
                 </a>
                 <div id="collapseIngresos" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="buttons.html">Listado</a>
-                        <a class="collapse-item" href="cards.html">Registrar Ingreso</a>
+                        <a class="collapse-item" href="@Url.Action("listadoIngresos", "Ingreso")">Listado</a>
+                        <a class="collapse-item" href="@Url.Action("", "Ingreso")">Registrar Ingreso</a>
                     </div>
                 </div>
             </li>
