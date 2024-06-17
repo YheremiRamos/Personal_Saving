@@ -4,11 +4,11 @@ namespace Proyecto.Presentacion.Models
 {
     public class TransaccionModel
     {
-        [DisplayName("Fecha")]
+        [DisplayName("Fecha de registro")]
         public DateTime fecha { get; set; }
 
 
-        [DisplayName("Monto")]
+        [DisplayName("Monto registrado")]
         public double monto { get; set; }
 
 

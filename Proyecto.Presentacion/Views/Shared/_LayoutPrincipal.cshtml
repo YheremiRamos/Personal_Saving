@@ -20,6 +20,13 @@
     <!-- Custom styles for this page -->
     <link href="~/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
 
+     <!-- Sweetalert -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js"
+      crossorigin="anonymous"></script>
+
+      
+
 </head>
 
 <body id="page-top">
@@ -68,7 +75,7 @@
                 <div id="collapseIngresos" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <a class="collapse-item" href="@Url.Action("listadoIngresos", "Ingreso")">Listado</a>
-                        <a class="collapse-item" href="@Url.Action("", "Ingreso")">Registrar Ingreso</a>
+                        <a class="collapse-item" href="@Url.Action("NuevoIngreso", "Ingreso")">Registrar Ingreso</a>
                     </div>
                 </div>
             </li>
@@ -316,6 +323,7 @@
 
                     </ul>
 
+                    
                 </nav>
                 <!-- End of Topbar -->
                 <!-- Begin Page Content -->
@@ -325,15 +333,6 @@
                 <!-- /.container-fluid -->
 
             </div>
-            <!-- End of Main Content -->
-            <!-- Footer -->
-            <footer class="sticky-footer bg-white">
-                <div class="container my-auto">
-                    <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Personal Saving 2024</span>
-                    </div>
-                </div>
-            </footer>
             <!-- End of Footer -->
 
         </div>
@@ -369,6 +368,7 @@
     <!-- Bootstrap core JavaScript-->
     <script src="~/vendor/jquery/jquery.min.js"></script>
     <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 
     <!-- Core plugin JavaScript-->
     <script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>

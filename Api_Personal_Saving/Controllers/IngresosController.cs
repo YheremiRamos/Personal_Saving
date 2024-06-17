@@ -10,6 +10,7 @@ namespace BACK_Api_Personal_Saving.Controllers
     [ApiController]
     public class IngresosController : ControllerBase
     {
+        //Listado
         [HttpGet("listadoIngresos")]
         public async Task<ActionResult<List<Ingresos>>> listarIngresos()
         {
@@ -17,12 +18,18 @@ namespace BACK_Api_Personal_Saving.Controllers
             return Ok(lista);
         }
 
+        [HttpGet("listadoIngresosO")]
+        public async Task<ActionResult<List<IngresosO>>> listarIngresosO()
+        {
+            var lista = await Task.Run(() => new IngresosDAO().listarIngresosO());
+            return Ok(lista);
+        }
+
         //paso4: controller (registro)
-       [HttpPost("nuevoIngreso")]
+        [HttpPost("nuevoIngreso")]
         public async Task<ActionResult<string>> nuevoIngreso(IngresosO objI)
         {
-            var mensaje = await Task.Run(() =>
-            new IngresosDAO().nuevoIngreso(objI));
+            var mensaje = await Task.Run(() => new IngresosDAO().nuevoIngreso(objI));
             return Ok(mensaje);
         }
 
@@ -35,6 +42,20 @@ namespace BACK_Api_Personal_Saving.Controllers
             return Ok(mensaje);
         }
 
+        [HttpPut("eliminaIngreso")]
+        public async Task<ActionResult<string>> eliminarIngreso(IngresosO objI)
+        {
+            var mensaje = await Task.Run(() => new IngresosDAO().modificaIngreso(objI));
+            return Ok(mensaje);
+        }
+
+        //controller (Buscar)
+        [HttpGet("buscarIngreso/{id}")]
+        public async Task<ActionResult<List<IngresosO>>> buscarIngreso(int id)
+        {
+            var lista = await Task.Run(() => new IngresosDAO().buscarIngreso(id));
+            return Ok(lista);
+        }
 
     }
 }
