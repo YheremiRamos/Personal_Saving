@@ -75,8 +75,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                     fecha = DateTime.Parse(dr[1].ToString()),
                     monto = Double.Parse(dr[2].ToString()),
                     descripcion = dr[3].ToString()
-                }
-                );
+                });
 
             }
             cn.Close();
@@ -91,7 +90,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         {
             string mensaje = "";
             int transacIngreso = 1;
-            string estado = "Habilitado";
+            int estado = 1;
             SqlConnection cn = new SqlConnection(cadena);
             cn.Open();
             try
@@ -122,7 +121,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         public string modificaIngreso(IngresosO objI)
         {
             string mensaje = "";
-            string estado = "Habilitado";
+            int estado = 1;
             int transacIngreso = 1;
             using (SqlConnection cn = new SqlConnection(cadena))
             {
@@ -155,7 +154,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         {
             string mensaje = "";
             int transacIngreso = 1;
-            string estado = "Deshabilitado";
+            int estado = 1;
             using (SqlConnection cn = new SqlConnection(cadena))
             {
                 cn.Open();

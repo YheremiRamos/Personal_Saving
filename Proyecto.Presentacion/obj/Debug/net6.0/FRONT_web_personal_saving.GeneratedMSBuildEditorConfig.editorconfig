@@ -9,63 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FRONT_web_personal_saving
 build_property.RootNamespace = FRONT_web_personal_saving
-build_property.ProjectDir = D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\Semana12\Proyecto.Presentacion\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.ProjectDir = D:\Downloads\Borrar\Proyecto.Presentacion\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\Semana12\Proyecto.Presentacion
+build_property.MSBuildProjectDirectory = D:\Downloads\Borrar\Proyecto.Presentacion
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Egreso/ListaEgreso.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Egreso/ListaEgreso.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWdyZXNvXExpc3RhRWdyZXNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Home/Index.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Ingreso/Index.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Ingreso/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Ingreso/listadoIngresos.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Ingreso/listadoIngresos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb1xsaXN0YWRvSW5ncmVzb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Ingreso/ModificarIngreso.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Ingreso/ModificarIngreso.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb1xNb2RpZmljYXJJbmdyZXNvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Ingreso/NuevoIngreso.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Ingreso/NuevoIngreso.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5ncmVzb1xOdWV2b0luZ3Jlc28uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Shared/Error.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Shared/_LayoutPrincipal.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Shared/_LayoutPrincipal.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQcmluY2lwYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Transaccion/listadoTransacciones.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Transaccion/listadoTransacciones.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY2Npb25cbGlzdGFkb1RyYW5zYWNjaW9uZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/_ViewImports.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/_ViewStart.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS/Proyecto_PersonalSaving/Semana12/Proyecto.Presentacion/Views/Shared/_Layout.cshtml]
+[D:/Downloads/Borrar/Proyecto.Presentacion/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2fwj3xas83
