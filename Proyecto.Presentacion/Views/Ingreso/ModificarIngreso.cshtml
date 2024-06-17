@@ -5,16 +5,6 @@
     Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
 }
 
-<h1>ModificarIngreso</h1>
-
-<h4>IngresoModelO</h4>
-<hr />
-<div class="row">
-    <div class="col-md-4">
-       
-    </div>
-</div>
-
 <div class="container-fluid  col-xl-12">
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
         <h1 class="h1 mb-3 text-gray-800" style="text-align:center">MODIFICAR MIS INGRESOS</h1>
@@ -34,7 +24,7 @@
                         </div>
                         <div class="form-group">
                             <label asp-for="id_usuario" class="control-label"></label>
-                            <input asp-for="id_usuario" class="form-control" />
+                            <input asp-for="id_usuario" class="form-control" readonly />
                             <span asp-validation-for="id_usuario" class="text-danger"></span>
                         </div>
                         <div class="form-group">

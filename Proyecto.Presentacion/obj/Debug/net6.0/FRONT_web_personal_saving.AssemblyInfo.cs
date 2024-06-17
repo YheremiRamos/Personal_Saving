@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FRONT_web_personal_saving")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92eb0bb2302e9ecbe7a2ac2fde3ea39bf1b15a95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FRONT_web_personal_saving")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FRONT_web_personal_saving")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
