@@ -11,6 +11,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
 
         //Definir la cadena de conexion
         private readonly string? cadena;
+
         public IngresosDAO()
         {
 
@@ -19,12 +20,44 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                 .Build().GetConnectionString("cn");
 
         }
-        //-------------------------
+        
+
+        //_------------------ LISTAR ------------
+        public IEnumerable<IngresosO> listarIngresosO()
+        {
+            List<IngresosO> aIngresosO = new List<IngresosO>();
+            SqlConnection cn = new SqlConnection(cadena);
+            cn.Open();
+            SqlCommand cmd = new SqlCommand("SP_LISTAR_INGRESOS_ORIGINAL", cn);
+
+            cmd.CommandType = CommandType.StoredProcedure;
+            SqlDataReader dr = cmd.ExecuteReader();
+            while (dr.Read())
+            {
+                aIngresosO.Add(new IngresosO()
+                {
+                    id_ingreso = int.Parse(dr[0].ToString()),
+                    id_usuario = int.Parse(dr[1].ToString()),
+                    id_transaccion = int.Parse(dr[2].ToString()),
+                    fecha = DateTime.Parse(dr[3].ToString()),
+                    monto = Double.Parse(dr[4].ToString()),
+                    descripcion = dr[5].ToString(),
+                    estado = dr[6].ToString()
+                });
+
+            }
+            cn.Close();
+            return aIngresosO;
+
+        }
+
+        //------------------------- BUSCAR ------------------
         public IngresosO buscarIngreso(int id)
         {
-            throw new NotImplementedException();
+            return listarIngresosO().FirstOrDefault(c => c.id_ingreso == id);
         }
-        //_------------------------------
+
+        //_--------------------- LISTAR ---------
         public IEnumerable<Ingresos> listarIngresos()
         {
             List<Ingresos> aIngresos = new List<Ingresos>();
@@ -38,9 +71,10 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             {
                 aIngresos.Add(new Ingresos()
                 {   
-                    fecha = DateTime.Parse(dr[0].ToString()),
-                    monto = Double.Parse(dr[1].ToString()),
-                    descripcion = dr[2].ToString()
+                    codigo = int.Parse(dr[0].ToString()),
+                    fecha = DateTime.Parse(dr[1].ToString()),
+                    monto = Double.Parse(dr[2].ToString()),
+                    descripcion = dr[3].ToString()
                 }
                 );
 
@@ -56,6 +90,8 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         public string nuevoIngreso(IngresosO objI)
         {
             string mensaje = "";
+            int transacIngreso = 1;
+            string estado = "Habilitado";
             SqlConnection cn = new SqlConnection(cadena);
             cn.Open();
             try
@@ -64,10 +100,11 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
                 cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
-                cmd.Parameters.AddWithValue("@id_transaccion", objI.id_transaccion);
+                cmd.Parameters.AddWithValue("@id_transaccion", transacIngreso);
                 cmd.Parameters.AddWithValue("@fecha", objI.fecha);
                 cmd.Parameters.AddWithValue("@monto", objI.monto);
                 cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
+                cmd.Parameters.AddWithValue("@estado", estado);
 
                 int n = cmd.ExecuteNonQuery();
                 mensaje = n.ToString() + " Ingreso registrado correctamente..!!";
@@ -85,6 +122,8 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         public string modificaIngreso(IngresosO objI)
         {
             string mensaje = "";
+            string estado = "Habilitado";
+            int transacIngreso = 1;
             using (SqlConnection cn = new SqlConnection(cadena))
             {
                 cn.Open();
@@ -94,10 +133,11 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                     cmd.CommandType = CommandType.StoredProcedure;
                     cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
                     cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
-                    cmd.Parameters.AddWithValue("@id_transaccion", objI.id_transaccion);
+                    cmd.Parameters.AddWithValue("@id_transaccion", transacIngreso);
                     cmd.Parameters.AddWithValue("@fecha", objI.fecha);
                     cmd.Parameters.AddWithValue("@monto", objI.monto);
                     cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
+                    cmd.Parameters.AddWithValue("@estado", estado);
 
                     int n = cmd.ExecuteNonQuery();
                     mensaje = n.ToString() + " Ingreso actualizado correctamente..!!";
@@ -105,6 +145,38 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                 catch (Exception ex)
                 {
                     mensaje = "Error al actualizar..!! " + ex.Message;
+                }
+                cn.Close();
+            }
+            return mensaje;
+        }
+
+        public string eliminaIngreso(IngresosO objI)
+        {
+            string mensaje = "";
+            int transacIngreso = 1;
+            string estado = "Deshabilitado";
+            using (SqlConnection cn = new SqlConnection(cadena))
+            {
+                cn.Open();
+                try
+                {
+                    SqlCommand cmd = new SqlCommand("SP_MERGE_INGRESO", cn);
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
+                    cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
+                    cmd.Parameters.AddWithValue("@id_transaccion", transacIngreso);
+                    cmd.Parameters.AddWithValue("@fecha", objI.fecha);
+                    cmd.Parameters.AddWithValue("@monto", objI.monto);
+                    cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
+                    cmd.Parameters.AddWithValue("@estado", estado);
+
+                    int n = cmd.ExecuteNonQuery();
+                    mensaje = n.ToString() + " Ingreso eliminado correctamente..!!";
+                }
+                catch (Exception ex)
+                {
+                    mensaje = "Error al eliminar..!! " + ex.Message;
                 }
                 cn.Close();
             }

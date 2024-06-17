@@ -5,16 +5,16 @@ namespace Proyecto.Presentacion.Models
 {
     public class IngresoModel
     {
-        [DisplayName("Fecha")]
-        //[Required(ErrorMessage = "Ingrese la fecha")]
+        [DisplayName("Código")]
+        public int codigo { get; set; }
+
+        [DisplayName("Fecha de registro")]
         public DateTime fecha { get; set; }
 
-        [DisplayName("Monto")]
-        //[Required(ErrorMessage = "Ingrese el monto")]
+        [DisplayName("Monto ingresado")]
         public double monto { get; set; }
 
-        [DisplayName("Descripción")]
-        //[Required(ErrorMessage = "Ingrese la descripción")]
+        [DisplayName("Descripción del ingreso")]
         public string? descripcion { get; set; }
     }
 }

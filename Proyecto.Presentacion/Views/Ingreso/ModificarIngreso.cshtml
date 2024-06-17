@@ -1,0 +1,92 @@
+﻿@model Proyecto.Presentacion.Models.IngresoModelO
+
+@{
+    ViewData["Title"] = "ModificarIngreso";
+    Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
+}
+
+<h1>ModificarIngreso</h1>
+
+<h4>IngresoModelO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+       
+    </div>
+</div>
+
+<div class="container-fluid  col-xl-12">
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h1 mb-3 text-gray-800" style="text-align:center">MODIFICAR MIS INGRESOS</h1>
+    </div>
+    <hr />
+    <div class="row">
+        <!--  Activos actuales -->
+        <div class="col-xl-5 col-md-5 mb-4">
+            <div class="card border-left-info shadow h-100 py-2">
+                <div class="card-body">
+                    <form asp-action="ModificarIngreso">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="id_ingreso" class="control-label"></label>
+                            <input asp-for="id_ingreso" class="form-control" readonly />
+                            <span asp-validation-for="id_ingreso" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="id_usuario" class="control-label"></label>
+                            <input asp-for="id_usuario" class="form-control" />
+                            <span asp-validation-for="id_usuario" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="fecha" class="control-label"></label>
+                            <input asp-for="fecha" class="form-control" />
+                            <span asp-validation-for="fecha" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="monto" class="control-label"></label>
+                            <input asp-for="monto" class="form-control" />
+                            <span asp-validation-for="monto" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="descripcion" class="control-label"></label>
+                            <input asp-for="descripcion" class="form-control" />
+                            <span asp-validation-for="descripcion" class="text-danger"></span>
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" value="Actualizar" class="btn btn-primary" />
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <!--  Imágen -->
+        <div class="col-xl-7 col-md-7 ">
+            <div class="card border-left-info shadow h-100 py-2">
+                <div class="card-body">
+                    <h1 class="h5 mb-3 text-gray-800" style="text-align:center">¡Registra tus ingresos y toma el control de tus finanzas! </h1>
+                    <img style="width:80%; margin:-65px 10% -40px 10%;" src="~/img/banner1.png" alt="Sé constante en el registro de tus ingresos" />
+                    <div>
+                        <ul class="list-group">
+                            <li class="list-group-item">¡Ningún ingreso es insignificante, cada uno es una pieza clave de tu rompecabeza financiero!</li>
+                            <li class="list-group-item">¡La atención a cada ingreso es la clave para tener finanzas sólidas, ¡desarrolla ese hábito!</li>
+                            <li class="list-group-item">¡Establece un momento del día para tus finanzas, tu futuro te lo agradecerá enormemente!</li>
+                            <li class="list-group-item">¡Tus ingresos te guían hacia dónde enfocar tus esfuerzos, sé estratégico y alcanza el éxito!</li>
+                            <li class="list-group-item">¡Simplifica el proceso, que registrar ingresos sea rápido y efectivo, ¡tú puedes!</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+if ('@ViewBag.mensaje' != "") {
+    Swal.fire({
+        title: '@ViewBag.mensaje',
+        text: "Para Continuar presione el Boton",
+        icon: "success"
+    });
+}
+</script>
+
