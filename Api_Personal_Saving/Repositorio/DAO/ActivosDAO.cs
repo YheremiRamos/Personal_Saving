@@ -15,8 +15,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             cadena = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("cn");
         }
 
-        //-- 
-        //--------------------------METODOS----------------
+        //-------------------------- MÉTODOS ----------------
 
         //LISTADO---------------
         public IEnumerable<Activos> listarActivos()
@@ -28,7 +27,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             SqlDataReader dr = cmd.ExecuteReader();
             while (dr.Read())
             {
-                aActivos.Add(new Activos
+                aActivos.Add(new Activos()
                 {
                     fecha = DateTime.Parse(dr[0].ToString()),
                     monto = Double.Parse(dr[1].ToString()),

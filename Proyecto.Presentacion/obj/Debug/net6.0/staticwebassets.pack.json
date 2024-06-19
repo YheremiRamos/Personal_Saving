@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\assets\\favicon.ico"
     },
     {
-      "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\assets\\img\\bg-masthead.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\bg-masthead.jpg"
-    },
-    {
       "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\assets\\img\\portfolio\\fullsize\\1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\portfolio\\fullsize\\1.jpg"
     },
@@ -91,6 +87,14 @@
     {
       "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\banner4.png",
       "PackagePath": "staticwebassets\\img\\banner4.png"
+    },
+    {
+      "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\ps.png",
+      "PackagePath": "staticwebassets\\img\\ps.png"
+    },
+    {
+      "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\ps2.png",
+      "PackagePath": "staticwebassets\\img\\ps2.png"
     },
     {
       "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\undraw_posting_photo.svg",

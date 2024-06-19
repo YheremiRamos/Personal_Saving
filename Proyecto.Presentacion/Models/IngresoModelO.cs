@@ -29,6 +29,6 @@ namespace Proyecto.Presentacion.Models
         public string? descripcion { get; set; }
 
         [DisplayName("Estado")]
-        public string? estado { get; set; }
+        public int estado { get; set; }
     }
 }
