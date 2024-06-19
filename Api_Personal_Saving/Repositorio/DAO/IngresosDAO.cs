@@ -20,7 +20,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                 .Build().GetConnectionString("cn");
 
         }
-        
+
 
         //_------------------ LISTAR ------------
         public IEnumerable<IngresosO> listarIngresosO()
@@ -42,7 +42,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
                     fecha = DateTime.Parse(dr[3].ToString()),
                     monto = Double.Parse(dr[4].ToString()),
                     descripcion = dr[5].ToString(),
-                    estado = dr[6].ToString()
+                    estado = int.Parse(dr[6].ToString())
                 });
 
             }
@@ -70,12 +70,13 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             while (dr.Read())
             {
                 aIngresos.Add(new Ingresos()
-                {   
+                {
                     codigo = int.Parse(dr[0].ToString()),
                     fecha = DateTime.Parse(dr[1].ToString()),
                     monto = Double.Parse(dr[2].ToString()),
                     descripcion = dr[3].ToString()
-                });
+                }
+                );
 
             }
             cn.Close();
@@ -83,14 +84,14 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
 
         }
 
-      
+
 
         //--------NUEVO INGRESO
         public string nuevoIngreso(IngresosO objI)
         {
             string mensaje = "";
             int transacIngreso = 1;
-            int estado = 1;
+            int estado = 3;
             SqlConnection cn = new SqlConnection(cadena);
             cn.Open();
             try
@@ -121,7 +122,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
         public string modificaIngreso(IngresosO objI)
         {
             string mensaje = "";
-            int estado = 1;
+            int estado = 3;
             int transacIngreso = 1;
             using (SqlConnection cn = new SqlConnection(cadena))
             {
@@ -150,36 +151,27 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             return mensaje;
         }
 
-        public string eliminaIngreso(IngresosO objI)
+        public string eliminaIngreso(int id)
         {
-            string mensaje = "";
-            int transacIngreso = 1;
-            int estado = 1;
+            string mensajeEliminar = "";
             using (SqlConnection cn = new SqlConnection(cadena))
             {
                 cn.Open();
                 try
                 {
-                    SqlCommand cmd = new SqlCommand("SP_MERGE_INGRESO", cn);
+                    SqlCommand cmd = new SqlCommand("SP_ELIMINA_INGRESO", cn);
                     cmd.CommandType = CommandType.StoredProcedure;
-                    cmd.Parameters.AddWithValue("@id_ingreso", objI.id_ingreso);
-                    cmd.Parameters.AddWithValue("@id_usuario", objI.id_usuario);
-                    cmd.Parameters.AddWithValue("@id_transaccion", transacIngreso);
-                    cmd.Parameters.AddWithValue("@fecha", objI.fecha);
-                    cmd.Parameters.AddWithValue("@monto", objI.monto);
-                    cmd.Parameters.AddWithValue("@descripcion", objI.descripcion);
-                    cmd.Parameters.AddWithValue("@estado", estado);
-
-                    int n = cmd.ExecuteNonQuery();
-                    mensaje = n.ToString() + " Ingreso eliminado correctamente..!!";
+                    cmd.Parameters.AddWithValue("@id_ingreso", id);
+                    cmd.ExecuteNonQuery();
+                    mensajeEliminar = " Ingreso eliminado correctamente..!!";
                 }
                 catch (Exception ex)
                 {
-                    mensaje = "Error al eliminar..!! " + ex.Message;
+                    mensajeEliminar = "Error al eliminar..!! " + ex.Message;
                 }
                 cn.Close();
             }
-            return mensaje;
+            return mensajeEliminar;
         }
     }
 }

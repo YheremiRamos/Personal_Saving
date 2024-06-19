@@ -6,12 +6,9 @@
 }
 
 <h1 style="text-align:center">CONSULTAR MIS INGRESOS</h1>
-<hr/>
+<hr />
 
 <div class="card shadow mb-4">
-    <!--<div class="card-header py-3">
-        <h6 class="m-0 font-weight-bold text-primary">Ingresos</h6>
-    </div>-->
     <div class="card-body">
         <div class="table-responsive">
             <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
@@ -46,7 +43,7 @@
                                 </a>
                             </td>
                             <td>
-                                <a href="@Url.Action("ModificarIngreso", new { id = item.codigo })">
+                                <a href="javascript:void(0);" onclick="confirmarEliminacion(@item.codigo)">
                                     <i class="fa-solid fa-trash"></i>
                                 </a>
                             </td>
@@ -58,13 +55,81 @@
     </div>
 </div>
 
+<button type="button" class="btn btn-primary" data-toggle="popover" title="Título del Popover" data-content="Contenido del Popover">
+    Botón con Popover
+</button>
 
-<script>
-    if ('@ViewBag.mensaje' != "") {
-        Swal.fire({
-            title: '@ViewBag.mensaje',
-            text: "Para Continuar presione el Boton",
-            icon: "success"
+
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script>
+        function confirmarEliminacion(id) {
+            Swal.fire({
+                title: "¿Seguro de eliminar?",
+                text: "No podrás revertir la acción",
+                icon: "warning",
+                showCancelButton: true,
+                confirmButtonColor: "#3085d6",
+                cancelButtonColor: "#d33",
+                confirmButtonText: "Sí",
+                cancelButtonText: "No"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    eliminarIngreso(id);
+                }
+            });
+        }
+
+        function eliminarIngreso(id) {
+            fetch(`/Ingreso/EliminarIngreso/${id}`, {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }).then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        // Si se elimina el ingreso correctamente, mostrar mensaje de éxito y actualizar la tabla
+                        Swal.fire({
+                            title: "¡Eliminado!",
+                            text: "Tu ingreso fue eliminado",
+                            icon: "success"
+                        }).then(() => {
+                            location.reload(); // Recargar la página para reflejar los cambios
+                        });
+                    } else {
+                        Swal.fire({
+                            title: "Error",
+                            text: data.message,
+                            icon: "error"
+                        });
+                    }
+                }).catch(error => {
+                    console.log(error.message);
+                    Swal.fire({
+                        title: "Error",
+                        text: data.message,
+                        icon: "error"
+                    });
+                });
+
+            Swal.fire({
+                title: "¡Eliminado!",
+                text: "Tu ingreso fue eliminado",
+                icon: "success"
+            });
+            setTimeout(() => {
+                location.reload(); // Recargar la página para reflejar los cambios
+            }, 800); // Esperar
+        }
+
+    </script>
+
+    <script>
+        $(document).ready(function () {
+            $('[data-toggle="popover"]').popover();
         });
-    }
-</script>
+    </script>
+
+}
