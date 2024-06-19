@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj": {}
+    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Sem12\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj": {}
   },
   "projects": {
-    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj": {
+    "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Sem12\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+        "projectUniqueName": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Sem12\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
         "projectName": "FRONT_web_personal_saving",
-        "projectPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+        "projectPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Sem12\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\obj\\",
+        "outputPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Sem12\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
