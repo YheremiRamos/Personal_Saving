@@ -20,12 +20,12 @@
     <!-- Custom styles for this page -->
     <link href="~/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
 
-     <!-- Sweetalert -->
+    <!-- Sweetalert -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js"
-      crossorigin="anonymous"></script>
+            crossorigin="anonymous"></script>
 
-      
+
 
 </head>
 
@@ -40,7 +40,7 @@
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
                 <div class="sidebar-brand-icon rotate-n-15">
-                    <i class="fa-solid fa-cart-shopping"></i>
+                    <i class="fa-solid fa-piggy-bank"></i>
                 </div>
                 <div class="sidebar-brand-text mx-3">PERSONAL SAVING</div>
             </a>
@@ -54,7 +54,7 @@
 
             <!-- Heading -->
             <div class="sidebar-heading">
-                Personal Saving
+                Tus finanzas con propósito
             </div>
 
             <!-- Nav Item - Pages Collapse Menu -->
@@ -63,13 +63,13 @@
                    aria-controls="collapseTwo">
                     <span>Activos</span>
                 </a>
-   
+
             </li>
 
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseIngresos" aria-expanded="true"
                    aria-controls="collapseTwo">
-              
+
                     <span>Ingresos</span>
                 </a>
                 <div id="collapseIngresos" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -83,7 +83,7 @@
             <li class="nav-item">
                 <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseEgresos" aria-expanded="true"
                    aria-controls="collapseTwo">
-                 
+
                     <span>Egresos</span>
                 </a>
                 <div id="collapseEgresos" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
@@ -95,7 +95,7 @@
             </li>
 
             <li class="nav-item">
-                <a class="nav-link " href="#"  data-target="#collapseReporte" aria-expanded="true"
+                <a class="nav-link " href="#" data-target="#collapseReporte" aria-expanded="true"
                    aria-controls="collapseTwo">
 
                     <span>Reportes</span>
@@ -132,7 +132,7 @@
                         <div class="input-group">
                             <div class="sidebar-brand-text mx-3">PERSONAL SAVING</div>
 
-                           
+
                         </div>
                     </form>
 
@@ -323,14 +323,15 @@
 
                     </ul>
 
-                    
+
                 </nav>
                 <!-- End of Topbar -->
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
                     @RenderBody()
                 </div>
-                <!-- /.container-fluid -->
+                <script src="~/js/site.js"></script>
+                @RenderSection("Scripts", required: false)
 
             </div>
             <!-- End of Footer -->

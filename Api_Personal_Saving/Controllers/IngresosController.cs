@@ -42,11 +42,12 @@ namespace BACK_Api_Personal_Saving.Controllers
             return Ok(mensaje);
         }
 
-        [HttpPut("eliminaIngreso")]
-        public async Task<ActionResult<string>> eliminarIngreso(IngresosO objI)
+        [HttpDelete("eliminaIngreso/{id}")]
+        public async Task<ActionResult> EliminarIngreso(int id)
         {
-            var mensaje = await Task.Run(() => new IngresosDAO().modificaIngreso(objI));
-            return Ok(mensaje);
+            var mensaje = await Task.Run(() => new IngresosDAO().eliminaIngreso(id));
+            bool success = mensaje.Contains("correctamente");
+            return Ok(new { success = success, message = mensaje });
         }
 
         //controller (Buscar)
@@ -56,6 +57,13 @@ namespace BACK_Api_Personal_Saving.Controllers
             var lista = await Task.Run(() => new IngresosDAO().buscarIngreso(id));
             return Ok(lista);
         }
+
+        /*[HttpDelete("eliminaIngreso/{id}")]
+        public async Task<ActionResult> EliminarIngreso(int id)
+        {
+            var mensaje = await Task.Run(() => new IngresosDAO().eliminaIngreso(id));
+            return Ok(mensaje);         
+        }*/
 
     }
 }

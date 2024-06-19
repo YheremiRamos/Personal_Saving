@@ -107,47 +107,59 @@ namespace Proyecto.Presentacion.Controllers
 
 
         //Eliminación de Ingresos
-        [HttpGet]
+        [HttpDelete]
         public async Task<IActionResult> EliminarIngreso(int id)
         {
-            var response = await
-            _httpClient.GetAsync(_httpClient.BaseAddress + "/Ingresos/buscarIngreso/" + id);
+            var response = await _httpClient.DeleteAsync($"api/Ingresos/eliminaIngreso/{id}");
+
             if (response.IsSuccessStatusCode)
             {
-                var content = await response.Content.ReadAsStringAsync();
-                var objI = JsonConvert.DeserializeObject<IngresoModelO>(content);
-                return View(objI);
+                var responseData = await response.Content.ReadAsStringAsync();
+                var result = JsonConvert.DeserializeObject<dynamic>(responseData);
+
+                if (result.success == true)
+                {
+                    ViewBag.mensaje = "Ingreso eliminado correctamente..!!!";
+                    return RedirectToAction("listadoIngresos"); // Redirigir al listado después de la eliminación
+                }
+                else
+                {
+                    ViewBag.mensaje = "No se eliminó el ingreso: " + result.message;
+                    return RedirectToAction("listadoIngresos");
+                }
             }
             else
             {
-                ViewBag.mensaje = "No hay ingreso!!!";
+                ViewBag.mensaje = "Error en la comunicación con el servidor.";
+                return RedirectToAction("listadoIngresos");
             }
+        }
 
-            return View();
-        }
-        [HttpPost]
-        public async Task<IActionResult> EliminarIngreso(int id, IngresoModelO objI)
-        {
-            /*
-             if (!ModelState.IsValid)
-            {
-                return View(new IngresoModelO());
-            }
-             */
-            var json = JsonConvert.SerializeObject(objI);
-            var content = new StringContent(json, Encoding.UTF8, "application/json");
-            var response = await _httpClient.PutAsync("api/Ingresos/eliminaIngreso?id={ id }", content);
-            if (response.IsSuccessStatusCode)
-            {
-                ViewBag.mensaje = "Ingreso eliminado correctamente..!!!";
-            }
-            return View(objI);
-        }
+
+
 
 
         public IActionResult Index()
         {
             return View();
         }
+
+        /*
+         [HttpDelete]
+        public async Task<IActionResult> EliminarIngreso(int id)
+        {
+             var response = await  _httpClient.DeleteAsync($"api/Ingresos/eliminarIngreso/{id}");
+
+            if (response.IsSuccessStatusCode)
+            {
+                ViewBag.mensaje = "Ingreso eliminado correctamente..!!!";
+                return RedirectToAction("listadoIngresos"); // Redirigir al listado después de la eliminación
+            }
+            else
+            {
+                ViewBag.mensaje = "No se eliminó el ingreso";
+                return RedirectToAction("listadoIngresos");
+            }
+        }*/
     }
 }

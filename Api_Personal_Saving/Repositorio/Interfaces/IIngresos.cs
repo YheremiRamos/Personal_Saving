@@ -10,7 +10,7 @@ namespace BACK_Api_Personal_Saving.Repositorio.Interfaces
         string nuevoIngreso(IngresosO objI);
         //metodo para actualizar 
         string modificaIngreso(IngresosO objI);
-        string eliminaIngreso(IngresosO objI);
+        string eliminaIngreso(int id);
 
 
     }

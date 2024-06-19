@@ -8,7 +8,7 @@
         public DateTime fecha { get; set; }
         public double monto { get; set; }
         public string? descripcion { get; set; }
-        public string? estado { get; set; }
-      
+        public int estado { get; set; }
+
     }
 }
