@@ -9,19 +9,11 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BACK_Api_Personal_Saving
 build_property.RootNamespace = BACK_Api_Personal_Saving
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\
-=======
-build_property.ProjectDir = C:\Users\italo\Downloads\Proyecto_Hoy\Api_Personal_Saving\
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+build_property.ProjectDir = C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Api_Personal_Saving\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
-build_property.MSBuildProjectDirectory = C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving
-=======
-build_property.MSBuildProjectDirectory = C:\Users\italo\Downloads\Proyecto_Hoy\Api_Personal_Saving
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+build_property.MSBuildProjectDirectory = C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Api_Personal_Saving
 build_property._RazorSourceGeneratorDebug = 

@@ -1357,3 +1357,15 @@ C:\Users\italo\Downloads\Proyecto_Hoy\Proyecto.Presentacion\obj\Debug\net6.0\FRO
 C:\Users\italo\Downloads\Proyecto_Hoy\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.genruntimeconfig.cache
 C:\Users\italo\Downloads\Proyecto_Hoy\Proyecto.Presentacion\obj\Debug\net6.0\ref\FRONT_web_personal_saving.dll
 >>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.csproj.AssemblyReference.cache
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.AssemblyInfoInputs.cache
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.AssemblyInfo.cs
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.csproj.CoreCompileInputs.cache
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.RazorAssemblyInfo.cache
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.RazorAssemblyInfo.cs
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.sourcelink.json
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\refint\FRONT_web_personal_saving.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\PERSONAL_V2\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.pdb

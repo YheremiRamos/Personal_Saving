@@ -1,110 +1,42 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "WorkspaceRootPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\",
+  "WorkspaceRootPath": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\egresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\views\\usuario\\nuevousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\usuario\\nuevousuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\api_personal_saving\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\api_personal_saving\\repositorio\\dao\\usuariosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\usuariosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\users\\leslie\\documents\\cibertec\\ciclo5\\desarrollo de servicios web i\\proyecto\\avance4_login\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\dao\\activosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\activosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iegresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-=======
-  "WorkspaceRootPath": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< HEAD
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\ingreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\wwwroot\\js_\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\wwwroot\\js_\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-=======
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
     }
   ],
   "DocumentGroupContainers": [
@@ -113,344 +45,130 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-<<<<<<< HEAD
-          "DockedWidth": 190,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "listadoIngresos.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T19:11:10.116Z",
-=======
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T16:49:53.715Z",
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.Development.json",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\appsettings.Development.json",
+              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-24T17:52:40.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_LayoutPrincipal.cshtml",
-              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ViewState": "AQIAAGwAAAAAAAAAAAAAADgAAAAWAAAA",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T16:48:41.293Z",
+              "WhenOpened": "2024-06-24T17:52:38.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransaccionController.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
-              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:46:33.602Z",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+              "Title": "NuevoUsuario.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\NuevoUsuario.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Usuario\\NuevoUsuario.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\NuevoUsuario.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Usuario\\NuevoUsuario.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:40:05.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-<<<<<<< HEAD
-              "Title": "NuevoIngreso.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAAEAAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T04:56:42.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IngresoController.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAowFwAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:10:34.18Z",
-=======
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T16:46:32.346Z",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-<<<<<<< HEAD
-              "DocumentIndex": 6,
-              "Title": "IngresosO.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\IngresosO.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\IngresosO.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\IngresosO.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Models\\IngresosO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:08:58.102Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\Login.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\Login.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Usuario\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-20T13:05:44.227Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCkAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T05:18:10.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ActivosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T13:57:37.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Ingresos.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\Ingresos.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Ingresos.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\Ingresos.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Models\\Ingresos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T22:59:38.484Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\appsettings.json",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\appsettings.json",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\appsettings.json",
-              "RelativeToolTip": "Api_Personal_Saving\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-19T18:58:07.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IIngresos.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:09:54.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\appsettings.json",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\appsettings.json",
-              "RelativeToolTip": "Proyecto.Presentacion\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-20T05:23:44.511Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IEgresos.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IEgresos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T04:26:40.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_LayoutPrincipal.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
-              "ViewState": "AQIAAHUBAAAAAAAAAAAQwIUBAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T03:39:27.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\Index.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\Index.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T04:26:52.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AQIAAH8UAAAAAAAAAAAgwI8UAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-06-19T19:21:01.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "scripts.js",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
-              "RelativeToolTip": "Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-06-17T06:51:56.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "listadoTransacciones.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-17T03:03:12.839Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 210,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EgresosController.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\EgresosController.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\EgresosController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T17:32:13.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IngresosController.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:08:20.477Z",
+              "WhenOpened": "2024-06-24T17:40:03.214Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ModificarIngreso.cshtml",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T16:38:15.426Z",
+              "WhenOpened": "2024-06-24T17:39:49.508Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IngresosDAO.cs",
-              "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
-              "ToolTip": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
-              "ViewState": "AQIAAHIAAAAAAAAAAAAAwI8AAAAkAAAA",
+              "Title": "UsuariosDAO.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Api_Personal_Saving\\Repositorio\\DAO\\UsuariosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\UsuariosDAO.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Api_Personal_Saving\\Repositorio\\DAO\\UsuariosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\UsuariosDAO.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T19:03:20.727Z",
-=======
-              "DocumentIndex": 4,
-              "Title": "BACK_Api_Personal_Saving",
-              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-              "RelativeToolTip": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-24T16:44:35.07Z",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+              "WhenOpened": "2024-06-24T04:19:20.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Api_Personal_Saving\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Api_Personal_Saving\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:18:51.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\UsuarioController.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAADwv1QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:08:58.457Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Users\\Leslie\\Documents\\CIBERTEC\\CICLO5\\DESARROLLO DE SERVICIOS WEB I\\PROYECTO\\AVANCE4_LOGIN\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T04:08:55.162Z"
             }
           ]
         }

@@ -11373,37 +11373,24 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-    "C:\\Users\\italo\\.nuget\\packages\\": {}
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "projectUniqueName": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL_V2\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
       "projectName": "FRONT_web_personal_saving",
-      "projectPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
+      "projectPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL_V2\\Personal_Saving\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
       "packagesPath": "C:\\Users\\Yheremi Fermin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
-      "projectName": "FRONT_web_personal_saving",
-      "projectPath": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\FRONT_web_personal_saving.csproj",
-      "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\obj\\",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
+      "outputPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\PERSONAL_V2\\Personal_Saving\\Proyecto.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-<<<<<<< HEAD
         "C:\\Users\\Yheremi Fermin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-        "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
