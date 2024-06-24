@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\",
   "Documents": [
     {
@@ -68,12 +69,24 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+=======
+  "WorkspaceRootPath": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+>>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\ingreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -84,6 +97,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\yheremi fermin\\desktop\\dsw_personal_saving\\personal_saving\\proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|c:\\users\\italo\\downloads\\proyecto_hoy\\api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\back_api_personal_saving.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
     }
   ],
   "DocumentGroupContainers": [
@@ -92,6 +113,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
+<<<<<<< HEAD
           "DockedWidth": 190,
           "SelectedChildIndex": 0,
           "Children": [
@@ -106,11 +128,58 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-19T19:11:10.116Z",
+=======
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:49:53.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAADgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T16:48:41.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:46:33.602Z",
+>>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+<<<<<<< HEAD
               "Title": "NuevoIngreso.cshtml",
               "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
               "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
@@ -132,10 +201,21 @@
               "ViewState": "AQIAAEsAAAAAAAAAAAAowFwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T19:10:34.18Z",
+=======
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T16:46:32.346Z",
+>>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "IngresosO.cs",
               "DocumentMoniker": "C:\\Users\\Yheremi Fermin\\Desktop\\DSW_PERSONAL_SAVING\\Personal_Saving\\Api_Personal_Saving\\Models\\IngresosO.cs",
@@ -359,6 +439,17 @@
               "ViewState": "AQIAAHIAAAAAAAAAAAAAwI8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T19:03:20.727Z",
+=======
+              "DocumentIndex": 4,
+              "Title": "BACK_Api_Personal_Saving",
+              "DocumentMoniker": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "ToolTip": "C:\\Users\\italo\\Downloads\\Proyecto_Hoy\\Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "RelativeToolTip": "Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-24T16:44:35.07Z",
+>>>>>>> 13879656d9f29f852c5e473a33864c2cda763c9d
               "EditorCaption": ""
             }
           ]
