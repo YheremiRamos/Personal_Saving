@@ -10,6 +10,7 @@ namespace BACK_Api_Personal_Saving.Controllers
     [ApiController]
     public class IngresosController : ControllerBase
     {
+
         //Listado
         [HttpGet("listadoIngresos")]
         public async Task<ActionResult<List<Ingresos>>> listarIngresos()

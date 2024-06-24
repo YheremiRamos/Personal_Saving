@@ -1077,3 +1077,10 @@ D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\P
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.pdb
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\FRONT_web_personal_saving.genruntimeconfig.cache
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Proyecto.Presentacion\obj\Debug\net6.0\ref\FRONT_web_personal_saving.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\Irony.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Proyecto.Presentacion\bin\Debug\net6.0\XLParser.dll

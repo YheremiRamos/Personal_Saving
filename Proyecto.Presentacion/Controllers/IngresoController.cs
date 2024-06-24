@@ -86,6 +86,7 @@ namespace Proyecto.Presentacion.Controllers
 
             return View();
         }
+
         [HttpPost]
         public async Task<IActionResult> ModificarIngreso(int id, IngresoModelO objI)
         {
@@ -100,8 +101,17 @@ namespace Proyecto.Presentacion.Controllers
             var response = await _httpClient.PutAsync("api/Ingresos/modificaIngreso?id={ id }", content);
             if (response.IsSuccessStatusCode)
             {
-                ViewBag.mensaje = "Ingreso actualizado correctamente..!!!";
+                TempData["SuccessMessage"] = "Ingreso sssactualizado correctamente..!!!";
+                // Obtener el proveedorId del producto modificado
+                var ingresoId = objI.id_ingreso;
+                return RedirectToAction(nameof(listadoIngresos), new { ingresoId });
             }
+            else
+            {
+                TempData["ErrorMessage"] = "Error al actualizar el Ingreso.";
+            }
+
+
             return View(objI);
         }
 

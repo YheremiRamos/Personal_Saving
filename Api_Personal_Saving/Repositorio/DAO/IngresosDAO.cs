@@ -2,12 +2,11 @@
 using BACK_Api_Personal_Saving.Repositorio.Interfaces;
 using System.Data;
 using Microsoft.Data.SqlClient;
-using Microsoft.Extensions.Configuration;
+using ClosedXML.Excel;
 
 namespace BACK_Api_Personal_Saving.Repositorio.DAO
 {
-    public class IngresosDAO : IIngresos
-    {
+    public class IngresosDAO : IIngresos    {
 
         //Definir la cadena de conexion
         private readonly string? cadena;
@@ -173,5 +172,9 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             }
             return mensajeEliminar;
         }
-    }
+
+    }   
+
+
+    
 }

@@ -5,62 +5,71 @@
     Layout = "~/Views/Shared/_LayoutPrincipal.cshtml";
 }
 
-<h1 style="text-align:center">CONSULTAR MIS INGRESOS</h1>
-<hr />
+<div class="container">
+    <h1 class="text-center my-4">Consultar Mis Ingresos</h1>
+    <hr />
 
-<div class="card shadow mb-4">
-    <div class="card-body">
-        <div class="table-responsive">
-            <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
-                <thead>
-                    <tr>
-                        <th>@Html.DisplayNameFor(model => model.fecha)</th>
-                        <th>@Html.DisplayNameFor(model => model.monto)</th>
-                        <th>@Html.DisplayNameFor(model => model.descripcion)</th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                </thead>
-                <tfoot>
-                    <tr>
-                        <th>@Html.DisplayNameFor(model => model.fecha)</th>
-                        <th>@Html.DisplayNameFor(model => model.monto)</th>
-                        <th>@Html.DisplayNameFor(model => model.descripcion)</th>
-                        <th></th>
-                        <th></th>
-                    </tr>
-                </tfoot>
-                <tbody>
-                    @foreach (var item in Model)
-                    {
+    <div class="d-flex justify-content-between mb-4">
+        <form asp-action="exportarExcel" asp-controller="Home" method="post" class="form-inline">
+            <button class="btn btn-success" type="submit">
+                <i class="fa-solid fa-file-excel"></i> Exportar a Excel
+            </button>
+        </form>
+    </div>
+
+    <div class="card shadow mb-4">
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
                         <tr>
-                            <td>@item.fecha.ToShortDateString()</td>
-                            <td>@item.monto.ToString("S/ " + "0.00")</td>
-                            <td>@Html.DisplayFor(modelItem => item.descripcion)</td>
-                            <td>
-                                <a href="@Url.Action("ModificarIngreso", new { id = item.codigo })">
-                                    <i class="fa-solid fa-pen"></i>
-                                </a>
-                            </td>
-                            <td>
-                                <a href="javascript:void(0);" onclick="confirmarEliminacion(@item.codigo)">
-                                    <i class="fa-solid fa-trash"></i>
-                                </a>
-                            </td>
+
+                            <th>@Html.DisplayNameFor(model => model.fecha)</th>
+                            <th>@Html.DisplayNameFor(model => model.monto)</th>
+                            <th>@Html.DisplayNameFor(model => model.descripcion)</th>
+                            <th class="text-center">Editar</th>
+                            <th class="text-center">Eliminar</th>
                         </tr>
-                    }
-                </tbody>
-            </table>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>@Html.DisplayNameFor(model => model.fecha)</th>
+                            <th>@Html.DisplayNameFor(model => model.monto)</th>
+                            <th>@Html.DisplayNameFor(model => model.descripcion)</th>
+                            <th class="text-center">Editar</th>
+                            <th class="text-center">Eliminar</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.fecha.ToShortDateString()</td>
+                                <td>@item.monto.ToString("S/ " + "0.00")</td>
+                                <td>@Html.DisplayFor(modelItem => item.descripcion)</td>
+                                <td>
+                                    <a href="@Url.Action("ModificarIngreso", new { id = item.codigo })">
+                                        <i class="fa-solid fa-pen"></i>
+                                    </a>
+                                </td>
+                                <td>
+                                    <a href="javascript:void(0);" onclick="confirmarEliminacion(@item.codigo)">
+                                        <i class="fa-solid fa-trash"></i>
+                                    </a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
         </div>
     </div>
-</div>
 
-<button type="button" class="btn btn-primary" data-toggle="popover" title="Título del Popover" data-content="Contenido del Popover">
+
+
+<!--<button type="button" class="btn btn-primary" data-toggle="popover" title="Título del Popover" data-content="Contenido del Popover">
     Botón con Popover
-</button>
-
-
-
+</button>-->
 @section Scripts {
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
     <script>
@@ -131,5 +140,8 @@
             $('[data-toggle="popover"]').popover();
         });
     </script>
+
+
+}
 
 }

@@ -401,3 +401,13 @@ D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\P
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Api_Personal_Saving\obj\Debug\net6.0\BACK_Api_Personal_Saving.pdb
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Api_Personal_Saving\obj\Debug\net6.0\BACK_Api_Personal_Saving.genruntimeconfig.cache
 D:\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\Proyecto_PersonalSaving\S12\Personal_Saving\Api_Personal_Saving\obj\Debug\net6.0\ref\BACK_Api_Personal_Saving.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\Irony.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\Yheremi Fermin\Desktop\DSW_PERSONAL_SAVING\Personal_Saving\Api_Personal_Saving\bin\Debug\net6.0\XLParser.dll
