@@ -3,36 +3,112 @@
   "WorkspaceRootPath": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layoutprincipal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\modificaringreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\nuevoingreso.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\transaccion\\listadotransacciones.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\ingreso\\listadoingresos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\wwwroot\\css_\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\wwwroot\\css_\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\wwwroot\\css\\sb-admin-2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\wwwroot\\js_\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\wwwroot\\js_\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\transaccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\repositorio\\dao\\activosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\activosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\models\\activos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\activos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\ingresoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\dao\\ingresosdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\models\\transaccionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\transaccionmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\repositorio\\interfaces\\iactivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iactivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\controllers\\activoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\activoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\controllers\\ingresocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\repositorio\\interfaces\\iingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C95296FB-DBE8-4FE3-82BA-DE5268EA5467}|Api_Personal_Saving\\BACK_Api_Personal_Saving.csproj|solutionrelative:api_personal_saving\\models\\ingresoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|d:\\1915 desarrollo de servicios web i_ejerciciosvs\\proyecto_personalsaving\\semana12\\proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CF45292-50FA-492A-BA06-9D39BAD5CCFE}|Proyecto.Presentacion\\FRONT_web_personal_saving.csproj|solutionrelative:proyecto.presentacion\\models\\ingresomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,39 +126,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "listadoIngresos.cshtml",
-              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAqwHMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-19T00:30:16.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IngresoController.cs",
-              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAuwHoAAAA8AAAA",
+              "DocumentIndex": 12,
+              "Title": "Activos.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Models\\Activos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Activos.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Models\\Activos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\Activos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-18T23:51:46.078Z",
+              "WhenOpened": "2024-06-24T02:23:50.239Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "IngresosDAO.cs",
               "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
               "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
               "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
               "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\IngresosDAO.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAcwJ0AAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T15:33:16.115Z",
               "EditorCaption": ""
@@ -90,58 +153,235 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_LayoutPrincipal.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_LayoutPrincipal.cshtml",
+              "ViewState": "AQIAABEBAAAAAAAAAAAAACgBAABnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:37:08.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransaccionController.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\TransaccionController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:35:26.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "styles.css",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\css_\\styles.css",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\wwwroot\\css_\\styles.css",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\css_\\styles.css",
+              "RelativeToolTip": "Proyecto.Presentacion\\wwwroot\\css_\\styles.css",
+              "ViewState": "AQIAAFQqAAAAAAAAAAAgwGQqAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T16:38:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NuevoIngreso.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\NuevoIngreso.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACUAAAC+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T19:28:02.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModificarIngreso.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\ModificarIngreso.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAC9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:30:42.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:10:21.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "listadoTransacciones.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Transaccion\\listadoTransacciones.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T02:24:18.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T17:28:51.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "listadoIngresos.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Ingreso\\listadoIngresos.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T00:30:16.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
+              "RelativeToolTip": "Proyecto.Presentacion\\wwwroot\\js_\\scripts.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-06-24T16:39:33.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sb-admin-2.css",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "RelativeToolTip": "Proyecto.Presentacion\\wwwroot\\css\\sb-admin-2.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-24T17:00:19.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivosDAO.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\DAO\\ActivosDAO.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T02:32:28.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "IngresosController.cs",
               "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
               "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
               "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\IngresosController.cs",
               "RelativeToolTip": "Api_Personal_Saving\\Controllers\\IngresosController.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T15:30:32.019Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IngresoModel.cs",
-              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
-              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 15,
+              "Title": "TransaccionModel.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\TransaccionModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\TransaccionModel.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\TransaccionModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\TransaccionModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:39:32.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T02:52:40.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IngresoModelO.cs",
-              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
-              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
-              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
-              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBcAAAA1AAAA",
+              "DocumentIndex": 16,
+              "Title": "IActivos.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IActivos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IActivos.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IActivos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IActivos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:39:08.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T02:33:59.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IIngresos.cs",
-              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "DocumentIndex": 17,
+              "Title": "ActivosController.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\ActivosController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\ActivosController.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\ActivosController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\ActivosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:37:10.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T02:34:19.986Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
+              "Title": "IngresoController.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Controllers\\IngresoController.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAwwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T23:51:46.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:43:07.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "IngresosO.cs",
               "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Models\\IngresosO.cs",
               "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\IngresosO.cs",
@@ -149,8 +389,79 @@
               "RelativeToolTip": "Api_Personal_Saving\\Models\\IngresosO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:36:18.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T15:36:18.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIngresos.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Repositorio\\Interfaces\\IIngresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:37:10.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Ingresos.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Models\\Ingresos.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\Models\\Ingresos.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\Models\\Ingresos.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\Models\\Ingresos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:33:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Api_Personal_Saving\\WeatherForecast.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Api_Personal_Saving\\WeatherForecast.cs",
+              "RelativeToolTip": "Api_Personal_Saving\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:44:03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Proyecto.Presentacion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-19T17:37:07.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IngresoModel.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:32.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IngresoModelO.cs",
+              "DocumentMoniker": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "RelativeDocumentMoniker": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "ToolTip": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "RelativeToolTip": "Proyecto.Presentacion\\Models\\IngresoModelO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:39:08.908Z"
             }
           ]
         }

@@ -29,9 +29,10 @@ namespace BACK_Api_Personal_Saving.Repositorio.DAO
             {
                 aActivos.Add(new Activos()
                 {
-                    fecha = DateTime.Parse(dr[0].ToString()),
-                    monto = Double.Parse(dr[1].ToString()),
-                    nombre = dr[2].ToString()
+                    saldo_actual = Double.Parse(dr[0].ToString()),
+                    fecha = DateTime.Parse(dr[1].ToString()),
+                    monto = Double.Parse(dr[2].ToString()),
+                    nombre= dr[3].ToString()
                 });
             }
             cn.Close();

@@ -121,6 +121,10 @@
       "PackagePath": "staticwebassets\\img\\undraw_rocket.svg"
     },
     {
+      "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\user.png",
+      "PackagePath": "staticwebassets\\img\\user.png"
+    },
+    {
       "Id": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\js\\demo\\chart-area-demo.js",
       "PackagePath": "staticwebassets\\js\\demo\\chart-area-demo.js"
     },

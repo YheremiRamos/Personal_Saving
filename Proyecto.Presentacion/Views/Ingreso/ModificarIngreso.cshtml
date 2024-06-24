@@ -39,7 +39,7 @@
                         </div>
                         <div class="form-group">
                             <label asp-for="descripcion" class="control-label"></label>
-                            <input asp-for="descripcion" class="form-control" />
+                            <textarea class="form-control" id="comments" rows="7" asp-for="descripcion" placeholder="Escribe aquí los detalles de tu ingreso que desees recordar"></textarea>
                             <span asp-validation-for="descripcion" class="text-danger"></span>
                         </div>
                         <div class="form-group">

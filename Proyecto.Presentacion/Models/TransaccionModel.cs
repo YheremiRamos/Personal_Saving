@@ -4,6 +4,9 @@ namespace Proyecto.Presentacion.Models
 {
     public class TransaccionModel
     {
+        [DisplayName("Saldo según usuario")]
+        public double saldo_actual { get; set; }
+
         [DisplayName("Fecha de registro")]
         public DateTime fecha { get; set; }
 

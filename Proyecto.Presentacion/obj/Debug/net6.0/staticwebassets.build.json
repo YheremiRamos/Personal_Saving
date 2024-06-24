@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0/KDXO8uzmQLveYjdVIa6TAoC8Z6IouMcQMB+BWqnRQ=",
+  "Hash": "Mwqn8M8pInM/0kuo7jFf/OuJkL2X8AMX7Z94bWEaNus=",
   "Source": "FRONT_web_personal_saving",
   "BasePath": "_content/FRONT_web_personal_saving",
   "Mode": "Default",
@@ -604,6 +604,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\undraw_rocket.svg"
+    },
+    {
+      "Identity": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\img\\user.png",
+      "SourceId": "FRONT_web_personal_saving",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\",
+      "BasePath": "_content/FRONT_web_personal_saving",
+      "RelativePath": "img/user.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\user.png"
     },
     {
       "Identity": "D:\\1915 DESARROLLO DE SERVICIOS WEB I_EjerciciosVS\\Proyecto_PersonalSaving\\Semana12\\Proyecto.Presentacion\\wwwroot\\js\\demo\\chart-area-demo.js",
